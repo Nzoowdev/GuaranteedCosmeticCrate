@@ -1,4 +1,3 @@
-````md
 # GuaranteedCosmeticCrate
 
 GuaranteedCosmeticCrate is a BepInEx mod for **REPO** that improves the vanilla cosmetic crate spawn system while keeping full compatibility with the game's original logic.
@@ -73,7 +72,7 @@ Examples:
 [GuaranteedCrate] Forcing cosmetic crate spawn...
 [GuaranteedCrate] Selected rarity: UltraRare
 [GuaranteedCrate] Cosmetic crate spawned successfully
-````
+
 
 Useful for:
 
