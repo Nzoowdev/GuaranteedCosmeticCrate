@@ -1,0 +1,12 @@
+{
+  "name": "GuaranteedCosmeticCrate",
+  "version_number": "2.0.6",
+  "website_url": "https://github.com/nzoow/GuaranteedCosmeticCrate",
+  "description": "Guarantees at least one cosmetic crate per run on ALL maps (including Arctic). Fallback spawner post-load, dynamic rarity system, multiplayer host-only spawn, fully configurable.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "categories": [
+    "AI Generated"
+  ]
+}
