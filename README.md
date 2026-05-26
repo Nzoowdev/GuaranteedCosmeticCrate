@@ -114,14 +114,6 @@ Config file will be generated automatically.
 
 # Configuration
 
-Config location:
-
-```text
-REPO/BepInEx/config/nzoow.repo.guaranteedcosmeticcrate.cfg
-```
-
-Example:
-
 ```ini
 [General]
 GuaranteedCrate = true
